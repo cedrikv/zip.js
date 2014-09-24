@@ -1,0 +1,19 @@
+{
+  "name": "zip.js",
+  "homepage": "https://github.com/cedrikv/zip.js",
+  "_release": "38ab9de2f6",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "38ab9de2f62ee43d983c4073ed44146349bb8e39"
+  },
+  "_source": "https://github.com/cedrikv/zip.js.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/cedrikv/zip.js.git",
+  "_direct": true,
+  "ignore": [
+    "WebContent/tests/.*",
+    ".project"
+  ],
+    "main": "WebContent/zip.js"
+}
