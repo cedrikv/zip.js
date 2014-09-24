@@ -12,7 +12,7 @@
   "_originalSource": "https://github.com/cedrikv/zip.js.git",
   "_direct": true,
   "ignore": [
-    "WebContent/tests/.*",
+    "WebContent/tests/",
     ".project"
   ],
     "main": "WebContent/zip.js"
